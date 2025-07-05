@@ -1,0 +1,5 @@
+duration_category,movie_count,avg_duration
+Short (< 90 min),1838,69.53
+Standard (90-120 min),3148,102.40
+Long (121-150 min),897,132.11
+Very Long (> 150 min),245,169.61
